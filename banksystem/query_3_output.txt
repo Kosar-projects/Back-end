@@ -1,0 +1,15 @@
+Name:Adrienne Weber
+Account Stock:100
+
+Name:Jessica Nguyen
+Account Stock:102
+
+Name:Mark Davila
+Account Stock:105
+
+Name:Craig Baldwin
+Account Stock:112
+
+Name:Raymond Kim
+Account Stock:115
+
